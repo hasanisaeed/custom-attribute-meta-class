@@ -1,0 +1,1 @@
+# custom-attribute-meta-class
